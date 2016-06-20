@@ -1,0 +1,10 @@
+
+# plugin is only enabled both 'data.prior.path' has been set and 'store.prior.enabled' set to true;
+store.prior.enabled: true
+data.prior.path:
+
+store.prior.migration.threshold: 0.8
+store.prior.max.threshold: 0.85
+
+store.prior.migration.schedule.interval: 1h
+store.prior.migration.concurrent: 5
