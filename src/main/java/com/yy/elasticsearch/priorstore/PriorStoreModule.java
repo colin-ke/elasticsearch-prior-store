@@ -6,7 +6,7 @@ import org.elasticsearch.common.inject.Inject;
 import org.elasticsearch.common.settings.Settings;
 
 /**
- * @author colin.ke keqinwu@yy.com
+ * @author colin.ke keqinwu@163.com
  */
 public class PriorStoreModule extends AbstractModule {
 

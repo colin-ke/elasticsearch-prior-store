@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * @author colin.ke keqinwu@yy.com
+ * @author colin.ke keqinwu@163.com
  */
 public class LocalShardStateAction extends AbstractComponent {
 

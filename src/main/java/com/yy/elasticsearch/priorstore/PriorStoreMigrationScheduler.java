@@ -35,7 +35,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
- * @author colin.ke keqinwu@yy.com
+ * @author colin.ke keqinwu@163.com
  */
 public class PriorStoreMigrationScheduler {
 

@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * @author colin.ke keqinwu@yy.com
+ * @author colin.ke keqinwu@163.com
  */
 public class PriorStoreDistributor extends AbstractDistributor {
 

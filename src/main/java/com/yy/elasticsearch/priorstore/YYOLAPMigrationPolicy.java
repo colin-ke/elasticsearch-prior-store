@@ -13,7 +13,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.*;
 
 /**
- * @author colin.ke keqinwu@yy.com
+ * @author colin.ke keqinwu@163.com
  */
 public class YYOLAPMigrationPolicy implements MigrationPolicy {
 

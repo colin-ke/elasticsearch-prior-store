@@ -3,7 +3,7 @@ package com.yy.elasticsearch.priorstore;
 import java.util.Set;
 
 /**
- * @author colin.ke keqinwu@yy.com
+ * @author colin.ke keqinwu@163.com
  */
 public class MigrationInfo {
 

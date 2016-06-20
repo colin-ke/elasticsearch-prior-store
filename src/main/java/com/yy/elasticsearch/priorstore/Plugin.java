@@ -12,7 +12,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 /**
- * @author colin.ke keqinwu@yy.com
+ * @author colin.ke keqinwu@163.com
  */
 public class Plugin extends AbstractPlugin {
 
